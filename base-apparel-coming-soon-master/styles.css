@@ -1,0 +1,53 @@
+body{
+    
+    background-color:rgb(255, 255, 255);
+  padding: 10px 100px 10px 1px;
+  margin: 100px 100px 100px 100px;
+  color: burlywood;
+}
+.dnd{
+    color: rgb(245, 224, 187);
+    font-size: 50px;
+    font-weight: lighter;
+    margin: 10px;
+}
+.firstSec{
+    width: 50%;
+    padding: 100px 100px 100px 100px;
+}
+.lex{
+    display: flex;
+}
+img{
+width: 150;
+height: 200;
+}
+.soon{
+    font-style: normal;
+    font-size: xx-large;
+    font-weight: 90000px;
+    color: black;
+}
+.your-email{
+   
+    width: 250px;
+    height: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: rgb(216, 155, 76);
+    /*border: 20px;*/
+    align-self: center;
+}
+.fom{
+    margin-top: 25px;
+}
+.btn{
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.fom #message{
+    display: none;
+}
+.fom #messages{
+    display: none;
+}
